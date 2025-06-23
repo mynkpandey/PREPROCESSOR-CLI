@@ -1,0 +1,1 @@
+This folder is used for Python bytecode cache files. 
